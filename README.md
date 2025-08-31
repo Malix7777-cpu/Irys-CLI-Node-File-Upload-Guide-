@@ -4,7 +4,7 @@
 
 ## 📔 Introduction
 
-The **Irys CLI** is a command-line tool for interacting with
+>The **Irys CLI** is a command-line tool for interacting with
 [Irys](https://irys.xyz/), a decentralized **data availability layer**
 that enables you to:\
 - Upload files, JSON, metadata, etc.\
