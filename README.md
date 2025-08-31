@@ -92,8 +92,12 @@ irys
 
 ## 💰 Fund Your Wallet (Testnet/Devnet)
 
-``` bash
-irys fund 1000000   -n devnet   -t ethereum   -w PRIVATE_KEY   --provider-url RPC_URL
+```
+irys fund 1000000 \
+  -n devnet \
+  -t ethereum \
+  -w Private_Key \
+  --provider-url RPC_URL
 ```
 
 -   🔑 Replace **`PRIVATE_KEY`** with your wallet private key (without
@@ -109,8 +113,11 @@ irys fund 1000000   -n devnet   -t ethereum   -w PRIVATE_KEY   --provider-url RP
 
 ## 💳 Check Balance
 
-``` bash
-irys balance WALLET_ADDRESS   -t ethereum   -n devnet   --provider-url RPC_URL
+```
+irys balance WALLET_ADDRESS \
+  -t ethereum \
+  -n devnet \
+  --provider-url RPC_URL
 ```
 
 -   Replace `WALLET_ADDRESS` with your wallet address\
@@ -120,8 +127,13 @@ irys balance WALLET_ADDRESS   -t ethereum   -n devnet   --provider-url RPC_URL
 
 ## 📤 Upload a File
 
-``` bash
-irys upload FILE_NAME   -n devnet   -t ethereum   -w PRIVATE_KEY   --tags FILE_NAME FILE_FORMAT   --provider-url RPC_URL
+``` 
+irys upload FILE_NAME \
+  -n devnet \
+  -t ethereum \
+  -w PRIVATE_KEY \
+  --tags FILE_NAME FILE_FORMAT \
+  --provider-url RPC_URL
 ```
 
 -   Replace `FILE_NAME` → your actual file name\
