@@ -1,5 +1,7 @@
 # Irys-CLI-Node-File-Upload-Guide-
 
+<div align="left">
+
 ## 📔 Introduction
 
 The **Irys CLI** is a command-line tool for interacting with
@@ -141,3 +143,14 @@ irys upload FILE_NAME   -n devnet   -t ethereum   -w PRIVATE_KEY   --tags FILE_N
 
 ✨ That's it! You're now ready to use **Irys CLI** for decentralized
 storage.
+
+---
+
+
+## 🤖 Need Help
+
+ 📺 **Guides & Updates:** [@LEGENDARYLOOTERSSS](https://t.me/LEGENDARYLOOTERSSS)
+
+😁 Thanks a lot! 👻 Keep building, keep coding & keep shining 💗🔥☠
+
+</pre>
